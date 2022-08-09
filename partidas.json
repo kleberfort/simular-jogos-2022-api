@@ -5,12 +5,13 @@
     "data": "TODO",
     "partida": 1
     
-    {
-    "mandante": "Ceará",
+    "mandante": {
+     "nome": Ceará",
     "imagem": "TODO"
     },
-  {
-  "visitante": "Palmeiras", 
+  
+  "visitante": {
+  "nome": "Palmeiras", 
   "imagem": "TODO"
   }
    
